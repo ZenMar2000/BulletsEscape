@@ -1,0 +1,116 @@
+fileFormatVersion: 2
+guid: 1d797c0d0b7a3478899bb6843d8630e8
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: 715df9372183c47e389bb6e19fbc3b52, type: 3}
+  editorImportSettings:
+    generateSecondaryUVSet: 0
+  importSettings:
+    nodeNameMethod: 1
+    animationMethod: 2
+    generateMipMaps: 1
+    texturesReadable: 0
+    defaultMinFilterMode: 9729
+    defaultMagFilterMode: 9729
+    anisotropicFilterLevel: 1
+  instantiationSettings:
+    mask: -1
+    layer: 0
+    skinUpdateWhenOffscreen: 1
+    lightIntensityFactor: 1
+    sceneObjectCreation: 2
+  assetDependencies:
+  - type: 0
+    originalUri: Assets/free_1975_porsche_911_930_turbo/scene.bin
+    assetPath: Assets/free_1975_porsche_911_930_turbo/scene.bin
+  - type: 1
+    originalUri: Assets/free_1975_porsche_911_930_turbo/textures/material_0_baseColor.png
+    assetPath: Assets/free_1975_porsche_911_930_turbo/textures/material_0_baseColor.png
+  - type: 1
+    originalUri: Assets/free_1975_porsche_911_930_turbo/textures/930_plastics_baseColor.png
+    assetPath: Assets/free_1975_porsche_911_930_turbo/textures/930_plastics_baseColor.png
+  - type: 1
+    originalUri: Assets/free_1975_porsche_911_930_turbo/textures/930_plastics_metallicRoughness.png
+    assetPath: Assets/free_1975_porsche_911_930_turbo/textures/930_plastics_metallicRoughness.png
+  - type: 1
+    originalUri: Assets/free_1975_porsche_911_930_turbo/textures/930_stickers_baseColor.png
+    assetPath: Assets/free_1975_porsche_911_930_turbo/textures/930_stickers_baseColor.png
+  - type: 1
+    originalUri: Assets/free_1975_porsche_911_930_turbo/textures/plate_baseColor.png
+    assetPath: Assets/free_1975_porsche_911_930_turbo/textures/plate_baseColor.png
+  - type: 1
+    originalUri: Assets/free_1975_porsche_911_930_turbo/textures/plate_normal.png
+    assetPath: Assets/free_1975_porsche_911_930_turbo/textures/plate_normal.png
+  - type: 1
+    originalUri: Assets/free_1975_porsche_911_930_turbo/textures/930_rim_baseColor.png
+    assetPath: Assets/free_1975_porsche_911_930_turbo/textures/930_rim_baseColor.png
+  - type: 1
+    originalUri: Assets/free_1975_porsche_911_930_turbo/textures/930_rim_metallicRoughness.png
+    assetPath: Assets/free_1975_porsche_911_930_turbo/textures/930_rim_metallicRoughness.png
+  - type: 1
+    originalUri: Assets/free_1975_porsche_911_930_turbo/textures/930_rim_normal.png
+    assetPath: Assets/free_1975_porsche_911_930_turbo/textures/930_rim_normal.png
+  - type: 1
+    originalUri: Assets/free_1975_porsche_911_930_turbo/textures/930_tire_baseColor.png
+    assetPath: Assets/free_1975_porsche_911_930_turbo/textures/930_tire_baseColor.png
+  - type: 1
+    originalUri: Assets/free_1975_porsche_911_930_turbo/textures/930_tire_metallicRoughness.png
+    assetPath: Assets/free_1975_porsche_911_930_turbo/textures/930_tire_metallicRoughness.png
+  - type: 1
+    originalUri: Assets/free_1975_porsche_911_930_turbo/textures/930_tire_normal.png
+    assetPath: Assets/free_1975_porsche_911_930_turbo/textures/930_tire_normal.png
+  - type: 1
+    originalUri: Assets/free_1975_porsche_911_930_turbo/textures/930_lights_baseColor.png
+    assetPath: Assets/free_1975_porsche_911_930_turbo/textures/930_lights_baseColor.png
+  - type: 1
+    originalUri: Assets/free_1975_porsche_911_930_turbo/textures/930_lights_metallicRoughness.png
+    assetPath: Assets/free_1975_porsche_911_930_turbo/textures/930_lights_metallicRoughness.png
+  - type: 1
+    originalUri: Assets/free_1975_porsche_911_930_turbo/textures/930_lights_normal.png
+    assetPath: Assets/free_1975_porsche_911_930_turbo/textures/930_lights_normal.png
+  - type: 1
+    originalUri: Assets/free_1975_porsche_911_930_turbo/textures/glass_baseColor.png
+    assetPath: Assets/free_1975_porsche_911_930_turbo/textures/glass_baseColor.png
+  - type: 1
+    originalUri: Assets/free_1975_porsche_911_930_turbo/textures/glass_metallicRoughness.png
+    assetPath: Assets/free_1975_porsche_911_930_turbo/textures/glass_metallicRoughness.png
+  - type: 1
+    originalUri: Assets/free_1975_porsche_911_930_turbo/textures/930_chromes_baseColor.png
+    assetPath: Assets/free_1975_porsche_911_930_turbo/textures/930_chromes_baseColor.png
+  - type: 1
+    originalUri: Assets/free_1975_porsche_911_930_turbo/textures/930_chromes_metallicRoughness.png
+    assetPath: Assets/free_1975_porsche_911_930_turbo/textures/930_chromes_metallicRoughness.png
+  - type: 1
+    originalUri: Assets/free_1975_porsche_911_930_turbo/textures/paint_metallicRoughness.png
+    assetPath: Assets/free_1975_porsche_911_930_turbo/textures/paint_metallicRoughness.png
+  - type: 1
+    originalUri: Assets/free_1975_porsche_911_930_turbo/textures/paint_clearcoat.png
+    assetPath: Assets/free_1975_porsche_911_930_turbo/textures/paint_clearcoat.png
+  - type: 1
+    originalUri: Assets/free_1975_porsche_911_930_turbo/textures/paint_clearcoat_roughness.png
+    assetPath: Assets/free_1975_porsche_911_930_turbo/textures/paint_clearcoat_roughness.png
+  - type: 1
+    originalUri: Assets/free_1975_porsche_911_930_turbo/textures/paint_clearcoat_normal.png
+    assetPath: Assets/free_1975_porsche_911_930_turbo/textures/paint_clearcoat_normal.png
+  - type: 1
+    originalUri: Assets/free_1975_porsche_911_930_turbo/textures/coat_baseColor.png
+    assetPath: Assets/free_1975_porsche_911_930_turbo/textures/coat_baseColor.png
+  - type: 1
+    originalUri: Assets/free_1975_porsche_911_930_turbo/textures/coat_metallicRoughness.png
+    assetPath: Assets/free_1975_porsche_911_930_turbo/textures/coat_metallicRoughness.png
+  - type: 1
+    originalUri: Assets/free_1975_porsche_911_930_turbo/textures/930_wunderbaum_baseColor.png
+    assetPath: Assets/free_1975_porsche_911_930_turbo/textures/930_wunderbaum_baseColor.png
+  - type: 1
+    originalUri: Assets/free_1975_porsche_911_930_turbo/textures/930_wunderbaum_metallicRoughness.png
+    assetPath: Assets/free_1975_porsche_911_930_turbo/textures/930_wunderbaum_metallicRoughness.png
+  reportItems:
+  - type: 2
+    code: 20
+    messages:
+    - KHR_materials_specular
